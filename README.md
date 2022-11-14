@@ -20,8 +20,6 @@ tipo Big Data o Machine Learning, como regresiones, proyecciones, etc.
 INTEGRANTES:
 
 Barozzi	Eugenia Cecilia,
-Bartolino Sabrina,
 Carabajal Belén Micaela, 
-Fehr Julieta Carolina,
 Riquelme Belen Marite,
 Rojas	Jorge Daniel.
