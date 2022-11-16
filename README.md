@@ -1,4 +1,5 @@
-[url=https://postimg.cc/PvPZxtfw][img]https://i.postimg.cc/PvPZxtfw/pngtree-business-technology-digital-high-tech-world-background-picture-image-957454.png[/img][/url]
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/L5VVxXrN/pngtree-business-technology-digital-high-tech-world-background-picture-image-957454.png' border='0' alt='pngtree-business-technology-digital-high-tech-world-background-picture-image-957454'/></a>
+
 CARRERA: TECNICATURA SUPERIOR DE CIENCIA DE DATOS E INTELIGENCIA
 ARTIFICIAL
 
