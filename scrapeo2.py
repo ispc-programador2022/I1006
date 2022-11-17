@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from funciones import Acciones
 
-class Scrapeo:
+class Scrapeo2:
     html_text = requests.get('https://cordoba.gob.ar/category/ciudad/entretiene/').text
     soup = BeautifulSoup(html_text, 'lxml')
     lista = soup.find_all('div', class_="site-content")
@@ -20,16 +20,14 @@ class Scrapeo:
     fecha_list = list()
     for f in Fecha:
         fecha_list.append(f.text)
-     
-    # Creo la funcion que crea el archivo csv y crea el dataframe
- 
-    
-    
-    csv = "datos3"
-    Acciones.auto_cvs(evento_list,fecha_list, csv)
-    var_df = Acciones.auto_df("./datos/datos3.csv") 
 
     
+    # Creo el archivo csv y el dataframe      
+    csv = "datos2"
+    Acciones.auto_cvs(evento_list,fecha_list, csv)
+    var_df2 = Acciones.auto_df("./datos/datos2.csv") 
+
+
      
     
  
