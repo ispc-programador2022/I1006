@@ -8,8 +8,7 @@ ESPACIO CURRICULAR: PROYECTO INTEGRADOR I
 PROFESORES: SILVIA PEROTTI, HÉCTOR PRADO.
 
 COHORTE: 2022
-
-PROYECTO: Actividades libres y gratuitas en la Ciudad de Córdoba 
+ 
 
 La consigna consiste en desarrollar una aplicación en Python, que tome los datos de
 alguna página web, haciendo Web Scraping, guardando los datos recolectados en un
@@ -25,3 +24,11 @@ Barozzi	Eugenia Cecilia,
 Carabajal Belén Micaela, 
 Riquelme Belen Marite,
 Rojas	Jorge Daniel.
+
+
+
+PROYECTO: Actividades libres y gratuitas en la Ciudad de Córdoba. 
+El siguiente proyecto permite conocer los eventos libres y gratuitos en la ciudad de Córdoba. Para poder darle un valor agregado optamos por cubrir una necesidad de agrupar y clasificar eventos de estas caracteristicas en la Ciudad de Córdoba, pensando especialmente en el inicio de temporada vacacional.
+
+ 
+
