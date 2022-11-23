@@ -25,12 +25,4 @@ class Scrapeo2:
     # Creo el archivo csv y el dataframe      
     csv = "datos2"
     Acciones.auto_cvs(evento_list,fecha_list, csv)
-    var_df2 = Acciones.auto_df("./datos/datos2.csv") 
-
-
-     
-    
- 
-
-  
-    #resultado = fun_scrap3(evento_list,fecha_list)
+    var_df2 = Acciones.auto_df("./base_datos/datos2.csv") 

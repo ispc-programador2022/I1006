@@ -38,5 +38,14 @@ if __name__ == '__main__':
             menu.Menu.op_3()
             select = True
             
+        if op == "4":            
+            menu.Menu.op_4()
+            Acciones.show_base()
+            select = True
+            
+        if op == "5":            
+            menu.Menu.op_5()
+            Acciones.show_grafico()
+            select = True
             
         

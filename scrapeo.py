@@ -28,14 +28,8 @@ class Scrapeo:
 
     csv = "datos"
     Acciones.auto_cvs(event_list,fe_list, csv)
-    data = Acciones.auto_df("./datos/datos.csv") 
+    data = Acciones.auto_df("./base_datos/datos.csv") 
     
     #Con esto borro filas duplicadas
     var_df = data.drop_duplicates(subset=['Evento'])
-    
-    
-    #var_df['Fecha'] = pd.to_datetime(var_df['Fecha'] ) 
-    
-
-    
-    
+ 

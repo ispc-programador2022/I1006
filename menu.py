@@ -22,7 +22,8 @@ class Menu:
         print(" |     All Eventos Cordoba:              1  |")
         print(" |     Ver Cordoba Free Eventos:         2  |")
         print(" |     Ver Eventos Ciudad Entretiene:    3  |") 
-        #print(" |     Ver Cordoba Capital Eventos:      4  |")          
+        print(" |     Ver Base de Eventos:              4  |")   
+        print(" |     Ver Grafico Eventos:              5  |")         
         print(" |                  EXIT:                0  |")
         print("\n")
         
@@ -43,7 +44,13 @@ class Menu:
     
     
     def op_4():       
-        print("\n","  ==== SCRAP 3 ====  ","\n")    
-        print(" vacio ")
+        print("\n","  ==== BASE ====  ","\n")    
+        print(" Eventos Almacenados > ","\n")       
         return
-
+    
+    
+    def op_5():       
+        print("\n","  ==== Grafico Scrap 2 ====  ","\n")           
+        return
+    
+    
