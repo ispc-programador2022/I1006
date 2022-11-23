@@ -35,4 +35,4 @@ A continuacion se vizualisan los procedimientos para lograr el grafico, comenzam
 primer inteto:
 <a href='https://postimg.cc/gxHN4m23' target='_blank'><img src='https://i.postimg.cc/y8wt1Nqp/Captura-de-pantalla-306.png' border='0' alt='Captura-de-pantalla-306'/></a>
 
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/tRWfX6pK/Captura-de-pantalla-307.png' border='0' alt='Captura-de-pantalla-307'/></a>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/3W5XdWh9/descarga.png' border='0' alt='descarga'/></a>
