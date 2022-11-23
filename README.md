@@ -33,15 +33,9 @@ El siguiente proyecto permite conocer los eventos libres y gratuitos en la ciuda
  
 A continuacion se vizualisan los procedimientos para lograr el grafico, comenzamos por un grafico de manera manual por la página, y mas abajo procedimos a hacerlo con el codigo y el archivo csv.
 primer inteto:
-<a href='https://postimg.cc/gxHN4m23' target='_blank'><img src='https://i.postimg.cc/y8wt1Nqp/Captura-de-pantalla-306.png' border='0' alt='Captura-de-pantalla-306'/></a>
-
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/tRWfX6pK/Captura-de-pantalla-307.png' border='0' alt='Captura-de-pantalla-307'/></a>
 
 [![Captura-de-pantalla-307.png](https://i.postimg.cc/tRWfX6pK/Captura-de-pantalla-307.png)](https://postimg.cc/XXNxLpZL)
-
-
-
-
+<a href='https://postimg.cc/gxHN4m23' target='_blank'><img src='https://i.postimg.cc/y8wt1Nqp/Captura-de-pantalla-306.png' border='0' alt='Captura-de-pantalla-306'/></a>
 
 
 
