@@ -37,7 +37,7 @@ primer inteto:
 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/tRWfX6pK/Captura-de-pantalla-307.png' border='0' alt='Captura-de-pantalla-307'/></a>
 
-
+[![Captura-de-pantalla-307.png](https://i.postimg.cc/tRWfX6pK/Captura-de-pantalla-307.png)](https://postimg.cc/XXNxLpZL)
 
 
 
