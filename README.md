@@ -20,10 +20,13 @@ tipo Big Data o Machine Learning, como regresiones, proyecciones, etc.
 
 INTEGRANTES:
 
-Barozzi	Eugenia Cecilia,
-Carabajal Belén Micaela, 
-Riquelme Belen Marite,
-Rojas	Jorge Daniel.
+•Barozzi	Eugenia Cecilia
+
+•Carabajal Belén Micaela
+
+•Riquelme Belen Marite
+
+•Rojas	Jorge Daniel.
 
 
 
