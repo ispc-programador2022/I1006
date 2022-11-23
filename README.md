@@ -31,4 +31,7 @@ PROYECTO: Actividades libres y gratuitas en la Ciudad de Córdoba.
 El siguiente proyecto permite conocer los eventos libres y gratuitos en la ciudad de Córdoba. Para poder darle un valor agregado optamos por cubrir la necesidad de agrupar y clasificar eventos de estas caracteristicas en la Ciudad de Córdoba, pensando especialmente en el inicio de temporada vacacional.
 
  
+A continuacion se vizualisan los procedimientos para lograr el grafico, comenzamos por un grafico de manera manual por la página, y mas abajo procedimos a hacerlo con el codigo y el archivo csv.
+primer inteto:
+<a href='https://postimg.cc/gxHN4m23' target='_blank'><img src='https://i.postimg.cc/y8wt1Nqp/Captura-de-pantalla-306.png' border='0' alt='Captura-de-pantalla-306'/></a>
 
