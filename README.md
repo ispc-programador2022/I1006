@@ -34,7 +34,7 @@ INTEGRANTES:
 - [TECNOLOGÍAS UTILIZADAS](#tecnolog-as-utilizadas)
 
 
----
+
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3?color=%233776AB&style=for-the-badge)
 
@@ -42,14 +42,14 @@ INTEGRANTES:
 ### PROYECTO: Actividades en la Ciudad de Córdoba. 
 El siguiente proyecto permite conocer los eventos libres y gratuitos en la ciudad de Córdoba. Para poder darle un valor agregado optamos por cubrir la necesidad de agrupar y clasificar eventos de estas características en la Ciudad de Córdoba, pensando especialmente en el inicio de temporada vacacional.
 
----
+
 
 ### TECNOLOGÍAS UTILIZADAS
 
 
 
 
----
+
 
 ### PROCESO DE TRABAJO: 
 
