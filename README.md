@@ -29,33 +29,30 @@ INTEGRANTES:
 
 **Tabla de Contenidos**
 
-- [PROYECTO: Actividades en la Ciudad de Córdoba.](#proyecto--actividades-en-la-ciudad-de-c-rdoba)
-- [PROCESO DE TRABAJO:](#proceso-de-trabajo-)
-- [TECNOLOGÍAS UTILIZADAS](#tecnolog-as-utilizadas)
+**Índice**   
+1. [PROYECTO: Actividades en la Ciudad de Córdoba](#id1)
+2. [TECNOLOGÍAS UTILIZADAS](#id2)
+3. [PROCESO DE TRABAJO](#id3)
+4. [NUESTRA WIKI](#id4)
 
 
 
-
+## PROYECTO: Actividades en la Ciudad de Córdoba<a name="id1"></a>
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/3?color=%233776AB&style=for-the-badge)
 
 
-### PROYECTO: Actividades en la Ciudad de Córdoba. 
+### PROYECTO: Actividades en la Ciudad de Córdoba
 El siguiente proyecto permite conocer los eventos libres y gratuitos en la ciudad de Córdoba. Para poder darle un valor agregado optamos por cubrir la necesidad de agrupar y clasificar eventos de estas características en la Ciudad de Córdoba, pensando especialmente en el inicio de temporada vacacional.
 
+### TECNOLOGÍAS UTILIZADAS<a name="id2"></a>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a> <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://markdown.es/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="markdown" width="40" height="40"/> </a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="markdown" width="40" height="40"/> </a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="markdown" width="40" height="40"/> </a><a href="https://trello.com/b/ujdldEpF/i1006-proyecto-integrador-web-scraping" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="markdown" width="40" height="40"/> </a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="markdown" width="40" height="40"/> </p>
 
 
-### TECNOLOGÍAS UTILIZADAS
-
-
-
-
-
-
-### PROCESO DE TRABAJO: 
+ ### PROCESO DE TRABAJO:<a name="id3"></a>
 
 https://docs.google.com/document/d/1S4dPko4AeDQUcz3bpPqc_ihgzHYrrtA4YmgHwoy-pjk/edit
 
-A continuación se visualizan los procedimientos para lograr el gráfico correspondiente a los eventos y sus fechas. Comenzamos por un gráfico echo de manera manual por la página web, y mas abajo procedimos a hacerlo con el código y el archivo csv.
+A continuación se visualizan los procedimientos para lograr el gráfico correspondiente a los eventos y sus fechas. Comenzamos por un gráfico hecho de manera manual por la página web, más abajo procedimos a hacerlo con el código y el archivo csv.
 primer intento:
 
 
@@ -71,9 +68,10 @@ primer intento:
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/sxnTpTCj/grafico-scrap2.png' border='0' alt='grafico-scrap2'/></a>
 
 
+### NUESTRA WIKI<a name="id4"></a>
 
-
-
+<!-- Links -->
+[WikiI1006]([https://www.faztweb.com](https://github.com/ispc-programador2022/I1006/wiki)
 
 
 
