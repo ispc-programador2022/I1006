@@ -76,6 +76,6 @@ primer intento:
 
 
 ### VÍDEO DE PRESENTACIÓN<a name="id5"></a>
-https://www.youtube.com/watch?v=xHVPkrX_DYE&t=323s
-...
+
+
 [![Alt text](https://img.youtube.com/vi/xHVPkrX_DYE/0.jpg)](https://www.youtube.com/watch?v=xHVPkrX_DYE)
