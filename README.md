@@ -43,7 +43,7 @@ primer intento:
 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/sgD2rsdh/Captura-de-pantalla-308.png' border='0' alt='Captura-de-pantalla-308'/></a>
 
-
+Resultado del Gráfico utilizando el código.
 
 
 
