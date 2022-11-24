@@ -40,7 +40,7 @@ primer intento:
 
 
 <a href='https://postimg.cc/gxHN4m23' target='_blank'><img src='https://i.postimg.cc/y8wt1Nqp/Captura-de-pantalla-306.png' border='0' alt='Captura-de-pantalla-306'/></a>
-
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/7ZqQpJmr/Captura-de-pantalla-307.png' border='0' alt='Captura-de-pantalla-307'/></a>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/sgD2rsdh/Captura-de-pantalla-308.png' border='0' alt='Captura-de-pantalla-308'/></a>
 
 Resultado del Gráfico utilizando el código:
