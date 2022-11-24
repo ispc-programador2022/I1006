@@ -71,7 +71,7 @@ primer intento:
 ### NUESTRA WIKI<a name="id4"></a>
 
 <!-- Links -->
-[WikiI1006]([https://www.faztweb.com](https://github.com/ispc-programador2022/I1006/wiki)
+[Wiki-I1006](https://github.com/ispc-programador2022/I1006/wiki)
 
 
 
