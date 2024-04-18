@@ -51,7 +51,7 @@ El siguiente proyecto permite conocer los eventos libres y gratuitos en la ciuda
 
  ### PROCESO DE TRABAJO:<a name="id3"></a>
 
-https://docs.google.com/document/d/1S4dPko4AeDQUcz3bpPqc_ihgzHYrrtA4YmgHwoy-pjk/edit
+https://docs.google.com/document/d/13-IglRPVr35ZwWxAkk0uGNa5MgQXRHaL/edit
 
 A continuación se visualizan los procedimientos para lograr el gráfico correspondiente a los eventos y sus fechas. Comenzamos por un gráfico hecho de manera manual por la página web, más abajo procedimos a hacerlo con el código y el archivo csv.
 primer intento:
